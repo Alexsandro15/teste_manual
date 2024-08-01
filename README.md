@@ -47,6 +47,10 @@ para acessar o tutorial da instalação [clique aqui](INSTALACAO.md)
 
 [SKLDSLDK](README.md)
 para acessar o tutorial da instalação [clique aqui](INSTALACAO.md)
+<br>
+
+# imagem
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVA_mUfr9rtUn7UJBhGwKBgjmqrXBFGEIVEu1bwgnB0PtPmKyi-qnO9WlhMbfGYQA5qxQ&usqp=CAU" width="300"/>
 
 
 
