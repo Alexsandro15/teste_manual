@@ -1,7 +1,7 @@
 # sumário
 - [titulo principal](#titulo-principal)
-- [sub-titulo](#sub-principal)
-- [sub-sub-titulo](#sub-sub-principal)
+- [sub-titulo](##sub-principal)
+- [sub-sub-titulo](###sub-sub-principal)
 
 # titulo principal
 conteudo do titulo principal...
@@ -36,11 +36,13 @@ echo("oi");
 # links 
 
 para baixar o software [clique aqui](https://google.com)
+<br>
 ou https://python.org.br
 
 <br>
 para acessar o tutorial da instalação [clique aqui](INSTALACAO.md)
-[SKLDSLDK](INSTALACAO.md)
+<br>
+[SKLDSLDK](README.md)
 
 
 
