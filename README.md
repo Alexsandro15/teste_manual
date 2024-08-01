@@ -37,3 +37,6 @@ echo("oi");
 
 para baixar o software [clique aqui](https://google.com)
 ou https://python.org.br
+
+<br>
+para acessar o tutorial da instalação [clique aqui](instalacao.md)
