@@ -11,6 +11,8 @@ conteudo do sub-titulo principal...
 
 ### sub-sub-titulo 
 conteudo do sub-sub-titulo principal...
+[SKLDSLDK](README.md)
+para acessar o tutorial da instalação [clique aqui](INSTALACAO.md)
 
 # Vantagens
 
@@ -38,11 +40,13 @@ echo("oi");
 para baixar o software [clique aqui](https://google.com)
 <br>
 ou https://python.org.br
-
-<br>
-para acessar o tutorial da instalação [clique aqui](INSTALACAO.md)
 <br>
 [SKLDSLDK](README.md)
+para acessar o tutorial da instalação [clique aqui](INSTALACAO.md)
+
+
+[SKLDSLDK](README.md)
+para acessar o tutorial da instalação [clique aqui](INSTALACAO.md)
 
 
 
