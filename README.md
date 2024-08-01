@@ -40,6 +40,7 @@ ou https://python.org.br
 
 <br>
 para acessar o tutorial da instalação [clique aqui](INSTALACAO.md)
+[SKLDSLDK](INSTALACAO.md)
 
 
 
